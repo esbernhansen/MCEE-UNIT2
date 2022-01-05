@@ -3,7 +3,7 @@
 # Activity: Yellow Brick Road
 
 ## Step 1 
-Kannað tá tú gongur hendingina. Flyt ``||Player: når spiller går||`` blokkin inná programmeringøkið.
+Kannað 'tá tú gongur hendingina'. Flyt ``||Player: når spiller går||`` blokkin inná programmeringøkið.
 
 ### ~ tutorialhint
 ``` blocks
